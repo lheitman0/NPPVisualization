@@ -21,7 +21,7 @@ This project aims to visualize the global distribution of nuclear power plants, 
 
 ## Data Source
 
-The data used in this project is sourced from [Name or Description of Data Source]. It contains detailed information about nuclear power plants, including their location (latitude and longitude), operational status, reactor type, capacity, and other relevant details.
+The data used in this project is sourced from https://www.kaggle.com/code/jonathanbouchet/nuclear-power-plant-geo-data/input?select=data . It contains detailed information about nuclear power plants, including their location (latitude and longitude), operational status, reactor type, capacity, and other relevant details.
 
 ## Dependencies
 
