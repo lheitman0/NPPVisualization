@@ -11,8 +11,13 @@ This project aims to visualize the global distribution of nuclear power plants, 
 - Color coding for different types of reactors.
 - Filtering to display only active power plants.
 - Custom legend for reactor types.
-- Responsive design for accessibility on various devices.
+![Map Visualization](data/InteractiveMap.png)
 
+- Reactor type average capacity
+![Average Capacaity for Reactor Type](data/AvgCapacityPerReactor.png)
+
+- Nuclear Power Plants Starting Construction Per Year
+![NPPs Starting Construction Per Year](data/NPPperyear.png)
 
 ## Data Source
 
