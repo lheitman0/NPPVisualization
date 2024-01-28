@@ -1,5 +1,3 @@
 # NuclearEnergyAnalysis
-Using NLP to find the sentiment of nuclear energy over time
-
+Analyzing Nuclear Power Plant data
 # Data
-Original plan was to scrape from JSTOR but I think I might need a diffrent way.
